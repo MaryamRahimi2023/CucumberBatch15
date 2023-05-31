@@ -134,3 +134,17 @@
 2023-05-30 21:36:35 INFO  Log:18 - ***************This is the beginning of my test cae**********
 2023-05-30 21:36:35 INFO  Log:30 - My test case is executing now
 2023-05-30 21:36:35 INFO  Log:34 - My test case might have some trivial issue
+2023-05-30 21:50:06 INFO  Log:16 - ********************
+2023-05-30 21:50:06 INFO  Log:17 - *********************
+2023-05-30 21:50:06 INFO  Log:18 - ***************This is the beginning of my test cae**********
+2023-05-30 21:50:06 INFO  Log:30 - My test case is executing now
+2023-05-30 21:50:06 INFO  Log:34 - My test case might have some trivial issue
+2023-05-30 22:44:33 INFO  Log:16 - ********************
+2023-05-30 22:44:33 INFO  Log:17 - *********************
+2023-05-30 22:44:33 INFO  Log:18 - ***************This is the beginning of my test cae**********
+2023-05-30 22:44:33 INFO  Log:30 - My test case is executing now
+2023-05-30 22:44:33 INFO  Log:34 - My test case might have some trivial issue
+2023-05-30 22:44:41 INFO  Log:30 - This test cae is about to completed
+2023-05-30 22:44:41 INFO  Log:23 - ###############################
+2023-05-30 22:44:41 INFO  Log:24 - #################################
+2023-05-30 22:44:41 INFO  Log:25 - #############This test case is finished#####################

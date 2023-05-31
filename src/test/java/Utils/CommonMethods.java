@@ -30,8 +30,8 @@ public class CommonMethods extends PageInitializer {
 
         switch (browserType){
             case "Chrome":
-                ChromeOptions ops = new ChromeOptions();
-                ops.addArguments("--no-sandbox");
+                ChromeOptions ops = new ChromeOptions();// test without opening browser
+                ops.addArguments("--no-sandbox"); // limit box
                 ops.addArguments("--remote-allow-origins=*");
                 if(ConfigReader.getPropertyValue("Headless").equals("true")){
                     ops.addArguments("--headless=new");
